@@ -5,5 +5,6 @@ Practice preprocessing using various libraries, including Pandas Numpy
 - 상점 신용카드 매출 예측 // https://dacon.io/competitions/official/140472/overview/description
 - 아파트 실거래가 예측 // https://dacon.io/competitions/official/21265/overview/description
 - IEEE-CIS Fraoud Detection // https://www.kaggle.com/c/ieee-fraud-detection/overview
+- Bosch Production Line Performance // https://www.kaggle.com/c/bosch-production-line-performance
 ## extensible
 해석가능한 AI 와 관련된 여러가지 기법 연습
